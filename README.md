@@ -1,6 +1,6 @@
 # Interview Test
 ## Soal Programmer
-untuk jawaban soal programmer dapat dilihat pada file `SoalProgrammer.md`
+Untuk jawaban soal programmer dapat dilihat pada file `SoalProgrammer.md`
 
 ## Instruksi Menggunakan Aplikasi
 1. `php artisan migrate`
@@ -9,4 +9,4 @@ untuk jawaban soal programmer dapat dilihat pada file `SoalProgrammer.md`
 4. `php artisan db:seed --class=LamaranSeeder`
 
 ### Pengujian
-untuk pengujian dapat menggunakan collection Postman yang sudah dicantumkan pada repo yaitu file `Kopnus.postman_collection`
+Untuk pengujian dapat menggunakan collection Postman yang sudah dicantumkan pada repo yaitu file `Kopnus.postman_collection`, untuk request yang Post Lamaran tidak bisa menggunakan collection run, harus secara manual karena ada file yang harus di-upload.
